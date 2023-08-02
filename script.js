@@ -1,4 +1,4 @@
-const apiKey = "f54605ffae5543bb9dcf32b27baa24d9"
+const apiKey = ""
 
 const recipeListEl = document.getElementById("recipe-list")
 
